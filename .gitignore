@@ -1,0 +1,4 @@
+.DS_Store
+# Written by Claude Code each time it loads a mod from a watched folder.
+.claude-plugin/types/
+node_modules/

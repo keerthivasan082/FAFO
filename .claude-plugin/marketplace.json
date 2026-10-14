@@ -1,0 +1,12 @@
+{
+  "name": "fafo",
+  "owner": { "name": "Keerthivasan Kathiravan" },
+  "description": "Experiments in finding out what I can do with AI",
+  "plugins": [
+    {
+      "name": "clippy",
+      "source": "./clippy-for-claude",
+      "description": "Clippy for Claude Code: usage limits on hover, reactions to your session, and a catch-up sitrep"
+    }
+  ]
+}

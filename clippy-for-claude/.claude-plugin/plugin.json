@@ -1,0 +1,7 @@
+{
+  "name": "clippy",
+  "version": "0.1.0",
+  "description": "Clippy for Claude Code: a paperclip above the prompt who shows your usage limits, reacts to your session and keeps a catch-up sitrep",
+  "author": { "name": "Keerthivasan Kathiravan" },
+  "types": "./types/index.d.ts"
+}
